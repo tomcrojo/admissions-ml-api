@@ -232,4 +232,4 @@ MIT License - See [LICENSE](LICENSE) for details
 ## 👤 Author
 
 **Tomás Campoy Rojo**
-- GitHub: [@tommcrojo](https://github.com/tommcrojo)
+- GitHub: [@tomcrojo](https://github.com/tomcrojo)
